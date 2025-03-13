@@ -42,6 +42,7 @@
           },
           "configurations": {
             "production": {
+              "baseHref": "/tailwind-css-with-angular/",
               "budgets": [
                 {
                   "type": "initial",

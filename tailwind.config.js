@@ -4,8 +4,8 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        banner: "url('/assets/images/banner.jpg')",
-        counterbanner: "url('/assets/images/counter-banner.jpg')",
+        banner: "url('assets/images/banner.jpg')",
+        counterbanner: "url('assets/images/counter-banner.jpg')",
       },
       boxShadow: {
         md: "0 1px 4px 2px rgb(0 0 0/0.1)",
