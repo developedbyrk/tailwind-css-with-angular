@@ -1,0 +1,10 @@
+.relative{
+          position: sticky !important;
+      top: 0;
+      background-color: #333;
+      color: white;
+      padding: 20px;
+      font-size: 24px;
+      z-index: 1000; /* Makes sure the header stays on top */
+      box-shadow: 0 4px 2px -2px gray;
+}
